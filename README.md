@@ -41,7 +41,7 @@
   <a href="https://www.instagram.com/jordangrkov11/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-  <a href="https://discord.com/users/твојот_дискорд_id" target="_blank" rel="noopener noreferrer">
+  <a href="https://discord.com/users/jgrkov" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
   <a href="https://www.linkedin.com/in/jordan-grkov-5b66a1272/" target="_blank" rel="noopener noreferrer">
